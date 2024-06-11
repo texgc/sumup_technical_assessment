@@ -146,11 +146,9 @@ with open("/Users/anotheruser/Desktop/sum_up_test/queries_results/average_time_f
 ```
 
 ## Diagrams
+![sumup_test_mysql](https://github.com/texgc/sumup_technical_assessment/assets/167104799/15020a11-0177-40ba-9159-f6bd4bdee68e)
 
-![sumup_test_mysql](https://github.com/texgc/sumup_technical_assessment/assets/167104799/15be3645-a03a-4f45-b6bf-5f29455d6667)
-
-  
-![sumup_test_mysql_fk](https://github.com/texgc/sumup_technical_assessment/assets/167104799/6970e0d7-bfcb-495e-8f23-e2021b6cde0a)
+![sumup_test_mysql_fk](https://github.com/texgc/sumup_technical_assessment/assets/167104799/23427683-5983-4176-a5a5-a993b6d4c3bb)
 
 ## Let's talk about results
 #### Top 10 products sold
